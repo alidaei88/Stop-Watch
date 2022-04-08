@@ -1,0 +1,15 @@
+
+.stopwatch {
+margin: auto;
+text-align: center;
+background: no-repeat url('../../../public/bg.jpg');
+background-size: contain;
+background-position: center center;
+height:90vh;
+margin-top: 5px;
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+
+}
